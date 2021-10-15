@@ -1,4 +1,4 @@
-('Puthon work!')
+('Python work!')
 num=5
 print(num)
 
